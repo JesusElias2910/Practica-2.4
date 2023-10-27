@@ -8,6 +8,9 @@ Autor: Jesús Elías Martínez
 Fecha de entrega:   26/10/2023  
 Objetivo: Desarrollar una interfaz de chat simple utilizando el microcontrolador Raspberry Pi Pico, una pantalla OLED, un botón, y el modelo de lenguaje GPT-3 (CHATGPT) para interactuar y obtener respuestas a preguntas o comandos ingresados por el usuario.
 
+**Conexión física**   
+![](Imagenes/fis.jpg)  
+
 **Código de thonny**   
 Lenguaje: Phyton
 ```
@@ -131,5 +134,8 @@ while True:
 ```
 
 **Resultados**  
-![](Imagenes/.jpg)  
-  
+_Envío de solicutd a CHAT GPT_  
+![](Imagenes/envio.jpg)  
+
+_Resultado CHAT GPT_  
+![](Imagenes/resu.jpg)   

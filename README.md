@@ -1,4 +1,4 @@
-# Práctica-2.6
+# Práctica-2.4
 
 # 2.4 PicoW + OLED + Boton + CHATGTP
 Depto de Sistemas y Computación  
